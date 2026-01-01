@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.holadivinus.noodledevents": {
-      "version": "https://github.com/holadivinus/Noodled-Events.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "03e68e2d7dfcc6010b2b9b4a783137f8cd085f78"
-    },
     "com.stresslevelzero.marrow.backlot": {
       "version": "https://github.com/EvroDeveloper/Marrow-Backlot-Standalone.git",
       "depth": 0,
@@ -117,7 +110,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.38",
+      "version": "3.0.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -160,6 +153,17 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.probuilder": {
+      "version": "5.0.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.settings-manager": "1.0.3"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.profiling.core": {
@@ -220,7 +224,7 @@
     },
     "com.unity.settings-manager": {
       "version": "1.0.3",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -276,7 +280,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
-      "version": "3.0.9",
+      "version": "3.0.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -285,7 +289,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.6.5",
+      "version": "1.6.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
